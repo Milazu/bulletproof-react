@@ -1,5 +1,8 @@
 Instalar node version 16 https://nodejs.org/download/release/v16.20.0/, o bien usar nvm
 
+Importante usar yarn, no npm 
+
+TODO: Modificar el naming de bulletproof-react a algo más personalizado, y posteriormente meterlo en un repo propio
 
 TODO: Decidir que utilizar para el diseño y componentes, más info en components-and-styling.md
 Tambien checkear Storybook
