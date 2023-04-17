@@ -1,3 +1,17 @@
+Instalar node version 16 https://nodejs.org/download/release/v16.20.0/, o bien usar nvm
+
+
+TODO: Decidir que utilizar para el diseño y componentes, más info en components-and-styling.md
+Tambien checkear Storybook
+
+TODO: Estudiar state-management.md y las distintas opciones.
+
+TODO: Estudiar security.md
+
+TODO: Estudiar testing.md (A partir de julio, no hay tiempo ahora)
+
+Additional Resources tiene cosas interesantes, revisar puntos clave en que formarse
+
 # Bulletproof React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
