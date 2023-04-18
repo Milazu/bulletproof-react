@@ -15,6 +15,10 @@ TODO: Estudiar testing.md (A partir de julio, no hay tiempo ahora)
 
 Additional Resources tiene cosas interesantes, revisar puntos clave en que formarse
 
+
+
+//TODO en un futuro, esperar hasta otoño para ver si bulletproof-react se actualiza y se sustituye craco por vite
+
 # Bulletproof React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
