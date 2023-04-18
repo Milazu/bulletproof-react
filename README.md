@@ -2,6 +2,8 @@ Instalar node version 16 https://nodejs.org/download/release/v16.20.0/, o bien u
 
 Importante usar yarn, no npm 
 
+TODO: aplicar https://github.com/alan2207/bulletproof-react/pull/42 si no funciona plopfile
+
 TODO: Modificar el naming de bulletproof-react a algo más personalizado, y posteriormente meterlo en un repo propio
 
 TODO: Decidir que utilizar para el diseño y componentes, más info en components-and-styling.md
@@ -13,7 +15,7 @@ TODO: Estudiar security.md
 
 TODO: Estudiar testing.md (A partir de julio, no hay tiempo ahora)
 
-Additional Resources tiene cosas interesantes, revisar puntos clave en que formarse
+Additional Resources tiene cosas interesantes, revisar puntos clave en que formarse, revisar https://react.dev/
 
 
 
