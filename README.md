@@ -1,5 +1,9 @@
 Instalar node version 16 https://nodejs.org/download/release/v16.20.0/, o bien usar nvm
 
+SI DA ERROR AL HACER YARN START, 
+YARN INSTALL
+COMPROBAR VERSION DE NODE SELECCIONADA
+
 Importante usar yarn, no npm 
 
 TODO: aplicar https://github.com/alan2207/bulletproof-react/pull/42 si no funciona plopfile
@@ -16,7 +20,6 @@ TODO: Estudiar security.md
 TODO: Estudiar testing.md (A partir de julio, no hay tiempo ahora)
 
 Additional Resources tiene cosas interesantes, revisar puntos clave en que formarse, revisar https://react.dev/
-
 
 
 //TODO en un futuro, esperar hasta otoño para ver si bulletproof-react se actualiza y se sustituye craco por vite
